@@ -29,3 +29,10 @@ jar {
         )
     }
 }*/
+
+/*
+application is used when the puglins id is set ot application
+ */
+application {
+    mainClass = 'dssc.hello.Main'
+}
